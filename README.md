@@ -1,4 +1,3 @@
-# C-Programs
 # 💻 C Programs
 
 Welcome to my **C Programming** repository! 🚀
